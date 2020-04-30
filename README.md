@@ -15,4 +15,4 @@ welcome to my crib!
 so, yeah. This site is still completely pointless. On the plus side, I discovered how easy it was to set it up PURELY using github, and without any other scripts. That's nice. Here, have a DK.
 </p>
 </main>
-<img alt="donk" src="https://mega.nz/file/BQ1zjA5R"; hight: 400px; width: 400px; padding: 20px 20px 20px 20px; />
+<img alt="donk" src="https://media.discordapp.net/attachments/617165966861664269/703380950699999333/server_weapon42.jpg"; hight: 400px; width: 400px; padding: 20px 20px 20px 20px; />
