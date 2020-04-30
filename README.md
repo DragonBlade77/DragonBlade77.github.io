@@ -1,3 +1,4 @@
+<!DOCTYPE html >
 # DragonBlade77.github.io
 welcome to my crib!
 <style>
