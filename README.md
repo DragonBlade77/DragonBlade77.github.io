@@ -1,9 +1,10 @@
-<!DOCTYPE html >
 # DragonBlade77.github.io
+<!DOCTYPE html>
 welcome to my crib!
 <style>
   p { 
   font-family: sans_serif, monochrome;
+  color: #FFFFFFF
   }
   main {
   background: #000000;
