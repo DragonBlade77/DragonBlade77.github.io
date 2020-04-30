@@ -4,7 +4,7 @@ welcome to my crib!
 <style>
   p { 
   font-family: sans_serif, monochrome;
-  color: #FFFFFFF
+  color: #ffffff
   }
   main {
   background: #000000;
