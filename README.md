@@ -18,4 +18,4 @@ Date and Time (Current).</button>
   <p>Hey, everyone! Gangplank is a pretty hard character to learn in league of legends, but I would be happy to teach others how to use the champion!</p>
   <p> --Part 1-- </p>
   <p> <bold> learning the ropes </bold> </p>
-  <p> The first important aspect of learning the champion is understanding the basics of the champion. There are 4 key ablities that can be read about from the wiki here. <button type= "button" onclick=window.location.href("https://leagueoflegends.fandom.com/wiki/Gangplank")> </button> </p>
+  <p> The first important aspect of learning the champion is understanding the basics of the champion. There are 4 key ablities that can be read about from the wiki here. <button type= "button" onclick=window.location.href("https://leagueoflegends.fandom.com/wiki/Gangplank")>Wiki Page</button> </p>
